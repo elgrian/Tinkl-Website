@@ -1,3 +1,8 @@
+Will come back to this later at some point. 
+After Intensives, will begin working on a webpage for Tinkl
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/elgrian/Tinkl-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
